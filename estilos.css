@@ -13,3 +13,56 @@
     padding: 0;
 }
 
+.nav-link{
+    font-weight: bold;
+}
+
+.contenedor-parrafo_cards{
+    display:flex;
+}
+
+.card{
+    height: 50%;
+}
+.container{
+    margin-top: 10px;
+}
+
+.contenedor_parrafo{
+    margin: 10px;
+}
+
+p{
+    text-align: justify;
+}
+
+h2{
+    text-align: center;
+    margin: 10px;
+}
+
+footer{
+    background-color:bisque;
+    padding: 2rem;  
+    color: #000;  
+}
+
+.enlaces_footer{
+    text-align: center;
+}
+
+.enlace_footer{
+    margin: 20px;
+    color: #000;
+}
+
+.enlace_footer:hover{
+    color:brown;
+}
+
+.derechos{
+    font-size: 18px;
+    text-align: center;
+}
+
+
