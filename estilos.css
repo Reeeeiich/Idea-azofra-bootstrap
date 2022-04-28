@@ -54,10 +54,12 @@ footer{
 .enlace_footer{
     margin: 20px;
     color: #000;
+    font-size: 20px;
 }
 
 .enlace_footer:hover{
     color:brown;
+    text-decoration: none;
 }
 
 .derechos{
